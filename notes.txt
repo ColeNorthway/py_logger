@@ -11,13 +11,15 @@ BLU-PRINT
 	  > Will capture keystrokes
 	  > Will also determine the program that the keystrokes are happening at.
 	> Will write the logs to a global list
-	> Will also check a global counter to see when the top of the hour is
+	> Will also check a global counter to see when the writer class finished reading from its list.
 	  > Will clear that list if that var is set.
 2) Make a writer class
 	> This will read from the global list and write to a file
-	> Will also check for that same global counter.
+	> Will also check for the timer global counter.
 	  > Will clear the file at the top of the hour.
 	  > Then go back and continue reading that list and writing to that file.
+	> When it is done reading from that list it will set a global counter
+	  > Then keylogger will clear out its list.
 3) The timer class
 	> Will literally just set a global variable at the top of the hour and then unset it after like 20 seconds or something to give ample time for the other threads/classes to notice its set.
 
