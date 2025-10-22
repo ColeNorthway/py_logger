@@ -14,14 +14,13 @@ BLU-PRINT
 	> Will also check a global counter to see when the writer class finished reading from its list.
 	  > Will clear that list if that var is set.
 2) Make a writer class
-	> This will read from the global list and write to a file
-	> Will also check for the timer global counter.
-	  > Will clear the file at the top of the hour.
-	  > Then go back and continue reading that list and writing to that file.
-	> When it is done reading from that list it will set a global counter
-	  > Then keylogger will clear out its list.
+	> This will write to a file.
+	> Will continue to get queue information and write to a file.
+	> Will pause when the timer hits top of hour to let the timer clear our the file
 3) The timer class
-	> Will literally just set a global variable at the top of the hour and then unset it after like 20 seconds or something to give ample time for the other threads/classes to notice its set.
+	> This will set a global varaible to let the writer to know to stop writing
+	  > Then reset the variable when the file is overwritten
+	> This will hit the top of the hour then send a copy of the file to an email
 
 
 Imports We Need
