@@ -1545,3 +1545,768 @@ d : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:
 'd' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:06.940654
 d : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:07.141205
 'd' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:07.341497
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:07.541877
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:07.742092
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:07.942223
+* : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:08.142645
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:08.343129
+'8' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:08.543327
+SK Key.enter : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:08.743729
+Key.enter rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:08.943999
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:09.144555
+: : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:09.345095
+':' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:09.545688
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:09.745987
+g : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:09.946152
+'g' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:10.146600
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:10.347760
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:10.548840
+t : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:10.749507
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:10.950728
+'t' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:11.151334
+- : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:11.351603
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:11.552178
+'-' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:11.752567
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:11.953949
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:12.154364
+a : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:12.354776
+'a' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:12.555248
+d : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:12.756720
+'d' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:12.960854
+d : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:13.161037
+'d' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:13.361506
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:13.562871
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:13.763330
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:13.963775
+* : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:14.164114
+'*' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:14.364242
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:14.564669
+SK Key.ctrl_l : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:14.765213
+SK Key.left : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:14.965517
+Key.left rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:15.165860
+SK Key.left : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:15.366355
+Key.left rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:15.566629
+SK Key.left : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:15.768219
+Key.left rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:15.968865
+SK Key.left : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:16.169243
+Key.left rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:16.369778
+Key.ctrl_l rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:16.570504
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:16.770832
+! : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:16.971110
+'!' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:17.171501
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:17.371744
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:17.571967
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:17.772337
+SK Key.enter : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:17.972906
+Key.enter rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:18.173308
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:18.373794
+: : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:18.575372
+':' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:18.775641
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:18.976202
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:19.176432
+! : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:19.376797
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:19.577125
+'1' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:19.777393
+g : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:19.978141
+'g' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:20.178637
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:20.379169
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:20.579685
+t : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:20.779822
+'t' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:20.980265
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:21.180960
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:21.381250
+c : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:21.581735
+'c' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:21.782116
+o : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:21.982698
+'o' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:22.183989
+m : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:22.384504
+'m' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:22.584903
+m : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:22.788336
+'m' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:22.991418
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:23.193380
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:23.393721
+t : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:23.594875
+'t' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:23.795050
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:23.995498
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:24.195933
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:24.396246
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:24.596490
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:24.796956
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:24.997382
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:25.197800
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:25.398398
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:25.599195
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:25.800189
+" : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:26.000440
+'"' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:26.200755
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:26.400935
+f : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:26.601249
+'f' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:26.801439
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:27.001757
+n : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:27.202182
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:27.402550
+a : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:27.602777
+'n' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:27.803110
+'a' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:28.003674
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:28.204216
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:28.404399
+'l' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:28.604885
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:28.805388
+c : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:29.006311
+o : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:29.222799
+'c' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:29.423571
+'o' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:29.623943
+m : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:29.824808
+'m' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:30.025022
+m : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:30.225582
+'m' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:30.427654
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:30.627858
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:30.828184
+t : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:31.028766
+'t' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:31.229201
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:31.429504
+" : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:31.629990
+'"' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:31.830512
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:32.030874
+SK Key.ctrl_l : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:32.231580
+SK Key.left : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:32.433007
+Key.left rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:32.635395
+SK Key.left : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:32.836401
+Key.left rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:33.037228
+Key.ctrl_l rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:33.237934
+- : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:33.438235
+'-' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:33.638494
+m : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:33.838981
+'m' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:34.039611
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:34.239989
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:34.440206
+SK Key.enter : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:34.640952
+Key.enter rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:34.842971
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:35.044002
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:35.244341
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:35.444770
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:35.646404
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:35.846761
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:36.047569
+: : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:36.248340
+':' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:36.448867
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:36.650038
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:36.851639
+! : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:37.052885
+'!' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:37.253123
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:37.453555
+g : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:37.654864
+'g' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:37.856598
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:38.058398
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:38.260064
+t : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:38.460647
+'t' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:38.661961
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:38.862627
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:39.063223
+p : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:39.263460
+u : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:39.463899
+'p' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:39.664334
+'u' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:39.864903
+t : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:40.065424
+'t' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:40.267022
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:40.467775
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:40.668229
+s : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:40.874417
+'s' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:41.103866
+h : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:41.304069
+'h' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:41.505599
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:41.705882
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:41.912100
+- : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:42.112827
+'-' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:42.316958
+u : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:42.520419
+'u' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:42.721191
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:42.924103
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:43.125724
+o : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:43.329433
+'o' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:43.540544
+r : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:43.741328
+'r' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:43.945793
+g : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:44.147941
+'g' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:44.348618
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:44.548900
+n : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:44.749119
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:44.949327
+'n' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:45.149914
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:45.350193
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:45.550331
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:45.751043
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:45.951711
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:46.151909
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:46.352201
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:46.552985
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:46.753552
+g : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:46.953843
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:47.154427
+'g' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:47.354639
+n : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:47.554908
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:47.755332
+'n' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:47.955796
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:48.156114
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:48.356416
+m : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:48.556673
+a : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:48.757144
+'m' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:48.957563
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:49.157830
+'a' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:49.358395
+n : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:49.558709
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:49.758942
+'n' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:49.959498
+SK Key.enter : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:50.159767
+Key.enter rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:18:50.360357
+SK Key.enter : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:05.708220
+Key.enter rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:05.908872
+/ : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:07.523739
+'/' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:07.726364
+s : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:08.533545
+'s' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:08.733892
+. : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:08.934351
+'.' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:09.134915
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:09.335439
+'l' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:09.535816
+o : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:09.737415
+'o' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:09.937699
+g : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:10.138161
+'g' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:10.338525
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:10.538857
+n : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:10.739280
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:10.939493
+'n' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:11.140401
+SK Key.enter : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:11.340737
+Key.enter rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:11.540978
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:11.741339
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:11.941935
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:12.142109
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:12.342394
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:12.542904
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:12.744031
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:12.944387
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:13.144846
+v : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:13.346024
+'v' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:13.546363
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:13.746489
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:13.946747
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:14.147363
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:14.347739
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:14.548129
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:14.748949
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:14.949132
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:15.149992
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:15.350351
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:15.550974
+'l' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:15.751609
+h : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:15.953983
+'h' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:16.154757
+d : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:16.355270
+'d' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:16.555863
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:16.756197
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:16.956968
+m : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:17.157088
+'m' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:17.357274
+s : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:17.557579
+'s' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:17.757812
+g : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:17.958485
+'g' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:18.158981
+. : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:18.359600
+'.' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:18.560250
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:18.760569
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:18.960794
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:19.161586
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:19.362104
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:19.562721
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:19.764275
+[ : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:19.964476
+'[' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:20.165136
+' : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:21.578978
+"'" rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:21.779659
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:21.980390
+F : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:22.180858
+'F' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:22.381639
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:22.581824
+r : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:24.196430
+'r' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:24.397625
+o : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:24.598492
+m : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:24.799193
+'o' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:24.999834
+'m' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:25.200059
+' : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:28.026338
+"'" rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:28.226605
+] : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:30.255023
+']' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:30.455252
+SK Key.esc : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:31.079621
+Key.esc rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:31.280583
+; : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:32.694299
+';' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:32.894855
+x : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:33.095178
+'x' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:33.295561
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:33.497125
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:33.697323
+a : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:34.301926
+'a' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:34.502534
+] : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:34.905260
+']' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:35.105787
+SK Key.esc : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:35.306404
+Key.esc rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:35.506930
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:35.708040
+'l' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:35.908468
+x : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:36.109452
+'x' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:36.309788
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:37.117187
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:37.317867
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:37.518121
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:37.718960
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:37.919239
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:38.120090
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:38.320700
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:38.523105
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:38.723721
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:38.924070
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:39.124714
+'l' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:39.325403
+x : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:39.525721
+'x' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:39.726409
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:39.926785
+: : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:40.127538
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:40.327757
+';' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:40.528235
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:40.728471
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:40.928725
+SK Key.enter : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:41.129048
+Key.enter rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:41.329473
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:45.173747
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:45.374161
+SK Key.esc : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:45.574536
+Key.esc rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:45.775172
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:45.975770
+'l' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:46.176028
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:46.376540
+'l' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:46.578499
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:46.778840
+'l' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:46.979265
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:47.179349
+'l' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:47.381238
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:47.581598
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:47.782192
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:47.982478
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:48.183054
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:48.383424
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:48.583740
+e : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:48.784476
+'e' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:48.984831
+g : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:49.185405
+'g' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:49.385615
+g : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:49.586324
+'g' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:49.786786
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:49.993454
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:50.193955
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:50.394333
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:50.594705
+s : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:50.795163
+'s' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:50.996587
+s : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:51.196867
+'s' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:51.397320
+a : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:51.597977
+g : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:51.798081
+'a' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:51.998634
+'g' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:52.199263
+e : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:52.399686
+'e' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:52.600183
+SK Key.esc : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:52.800430
+Key.esc rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:53.000892
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:53.201427
+: : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:53.401810
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:53.601865
+';' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:53.801958
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:54.008674
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:54.209224
+SK Key.enter : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:54.409855
+Key.enter rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:54.610088
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:54.810678
+'l' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:55.010988
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:55.211493
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:55.411999
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:55.612145
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:55.812726
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:56.017323
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:56.217599
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:56.417789
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:56.618390
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:56.819377
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:57.019666
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:57.222011
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:57.422327
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:57.622763
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:57.823354
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:58.027951
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:58.228207
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:58.428439
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:58.628913
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:58.829508
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:59.031462
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:59.231943
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:59.432489
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:59.632672
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:19:59.832907
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:00.033489
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:00.234172
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:00.435010
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:00.635174
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:00.835580
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:01.045540
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:01.246186
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:01.446256
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:01.646612
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:01.846760
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:02.047347
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:02.251158
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:02.451495
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:02.652103
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:02.852817
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:03.057165
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:03.257456
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:03.458112
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:03.658540
+'l' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:03.858904
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:04.062149
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:04.262455
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:04.462677
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:04.663063
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:04.863306
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:05.063813
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:05.264354
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:05.465114
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:05.665432
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:05.874004
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:06.074697
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:06.274930
+h : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:06.475510
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:06.675868
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:06.876260
+'h' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:07.083266
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:07.283512
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:07.484159
+h : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:07.684596
+'h' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:07.884879
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:08.095786
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:08.296561
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:08.499175
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:08.699417
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:08.899964
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:09.109077
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:09.310446
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:09.510695
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:09.711064
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:09.911585
+a : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:10.114377
+'a' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:10.314998
+f : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:10.515621
+'f' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:10.715840
+' : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:10.917188
+"'" rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:11.117702
+SK Key.esc : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:11.318130
+Key.esc rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:11.518444
+a : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:11.718717
+'a' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:11.919620
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:12.119799
+{ : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:12.320364
+'{' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:12.520930
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:12.721454
+SK Key.esc : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:12.921907
+Key.esc rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:13.122093
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:13.322487
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:13.522995
+v : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:13.723625
+'v' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:13.924187
+v : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:14.124701
+'v' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:14.325382
+SK Key.esc : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:14.525653
+Key.esc rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:14.725845
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:14.926200
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:15.126653
+b : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:15.326954
+'b' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:15.527102
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:15.727765
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:15.927991
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:16.128597
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:16.329172
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:16.529727
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:16.729963
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:16.930520
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:17.137018
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:17.337480
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:17.537551
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:17.737970
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:17.938197
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:18.152618
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:18.353611
+h : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:18.553926
+'h' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:18.754180
+h : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:18.954819
+'h' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:19.155384
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:19.355872
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:19.556346
+' : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:19.757654
+"'" rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:19.957827
+SK Key.esc : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:20.159226
+Key.esc rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:20.359548
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:20.559913
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:20.760340
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:20.960806
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:21.160930
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:21.361197
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:21.561650
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:21.761888
+} : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:21.963020
+'}' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:22.164277
+Key.shift rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:22.364811
+SK Key.esc : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:22.565053
+Key.esc rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:22.765613
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:22.965950
+'l' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:23.166330
+x : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:23.366499
+'x' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:23.567166
+h : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:23.767701
+'h' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:23.968277
+u : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:25.382903
+'u' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:25.583161
+u : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:25.783826
+'u' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:25.984409
+u : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:26.184779
+'u' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:26.385008
+u : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:26.585413
+'u' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:26.786265
+u : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:26.987517
+'u' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:27.189018
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:29.007501
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:29.207893
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:29.409264
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:29.609526
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:32.438576
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:32.639519
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:32.839677
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:33.039907
+v : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:33.444978
+'v' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:33.645199
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:33.849542
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:34.049894
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:34.250231
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:34.450541
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:34.651021
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:34.851417
+0 : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:35.051716
+'0' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:35.252182
+d : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:35.452430
+'d' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:35.652817
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:35.853758
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:36.054329
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:36.254878
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:36.455267
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:36.655387
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:36.855834
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:37.061284
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:37.262125
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:37.462518
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:37.663406
+o : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:37.864103
+'o' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:38.064630
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:38.264791
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:38.465220
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:38.665909
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:38.866842
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:39.876106
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:40.076791
+SK Key.esc : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:40.277455
+Key.esc rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:40.480880
+p : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:40.681576
+'p' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:40.881845
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:41.082479
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:41.282614
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:41.482809
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:41.683934
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:41.884021
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:42.084217
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:42.285055
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:42.485787
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:42.686536
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:42.886783
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:43.087250
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:43.287667
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:43.488335
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:43.688641
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:43.888818
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:44.089521
+d : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:44.289978
+'d' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:44.490121
+d : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:44.690827
+'d' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:44.890895
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:45.091041
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:45.291503
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:45.491921
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:45.692926
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:45.894096
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:46.094332
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:46.294397
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:46.494778
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:46.695332
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:46.895926
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:47.096337
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:47.297038
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:47.497499
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:47.701768
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:47.903277
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:48.103398
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:48.303852
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:48.504257
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:48.704817
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:48.905139
+k : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:49.105588
+'k' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:49.306444
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:49.506761
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:49.707168
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:49.907486
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:50.108123
+j : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:50.308347
+'j' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:50.508640
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:50.708791
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:50.908917
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:51.109421
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:51.309900
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:51.510494
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:51.710982
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:51.911637
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:52.111834
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:52.312067
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:52.512301
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:52.712584
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:52.912995
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:53.113703
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:53.315154
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:53.515871
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:53.716440
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:53.916758
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:54.117312
+w : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:54.317453
+'w' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:54.520828
+v : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:54.721313
+'v' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:54.921692
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:55.121837
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:55.322104
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:55.522321
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:55.723481
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:55.923960
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:56.124477
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:56.327653
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:56.528345
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:56.728618
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:56.928982
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:57.131395
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:57.332145
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:57.532980
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:57.734085
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:57.934335
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:58.134590
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:58.334730
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:58.535417
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:58.735991
+'l' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:58.936267
+h : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:59.136650
+'h' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:59.337223
+l : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:59.537612
+'l' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:59.738103
+h : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:20:59.938346
+'h' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:00.138587
+d : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:00.340641
+'d' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:00.540880
+i : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:00.741336
+'i' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:00.942567
+SK Key.shift : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:01.143041
+Y : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:01.348906
+O : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:01.549312
+'Y' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:01.750043
+'O' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:01.950293
+U : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:02.150675
+'U' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:02.350862
+R : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:02.550983
+'R' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:02.751591
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:02.952946
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:03.154127
+A : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:03.354618
+'A' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:03.555469
+P : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:03.755830
+'P' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:03.956437
+P : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:04.156700
+'P' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:04.363156
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:04.563908
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:04.764544
+K : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:04.965127
+'K' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:05.165351
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:05.365714
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:05.566535
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:05.766871
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:05.967416
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:06.168189
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:06.370007
+A : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:06.571389
+'A' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:06.771761
+P : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:06.972101
+'P' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:07.172701
+P : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:07.373075
+'P' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:07.573531
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:07.774054
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:07.974519
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:08.175392
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:08.375958
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:08.576350
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:08.776662
+P : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:08.977162
+'P' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:09.177404
+A : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:09.378840
+'A' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:09.579290
+S : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:09.780015
+'S' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:09.980699
+S : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:10.180937
+'S' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:10.382016
+W : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:10.582345
+'W' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:10.782611
+O : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:10.983362
+'O' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:11.183760
+R : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:11.384283
+'R' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:11.584746
+D : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:11.785531
+'D' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:11.985961
+SK Key.space : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:12.186534
+Key.space rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:12.387312
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:12.587576
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:12.787998
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:12.988476
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:13.188768
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:13.389000
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:13.589254
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:13.789529
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:13.990437
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:14.190753
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:14.390983
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:14.591399
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:14.791644
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:14.991980
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:15.192946
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:15.393772
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:15.594285
+SK Key.backspace : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:15.794506
+Key.backspace rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:15.995096
+P : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:16.195264
+'P' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:16.395730
+A : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:16.595837
+'A' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:16.796295
+S : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:16.997050
+'S' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:17.197646
+S : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:17.397771
+'S' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:17.598107
+W : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:17.798343
+O : not faked : Window : C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:17.998592
+'W' rels : not faked : Window C:\Program Files\PowerShell\7\pwsh.exe ~ 2025-10-23 15:21:18.199187

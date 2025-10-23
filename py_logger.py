@@ -56,12 +56,12 @@ class FileManipulator:
             s = smtplib.SMTP('smtp.gmail.com', 587)
             #starting tls
             s.starttls()
-            # Authentication
-            s.login("EMAIL HERE", "doii tpmd gytk vomo")
             #dumping file to message string
             f = open("demofile.txt")
             message = FileManipulator.make_message(f.read())
             f.close()
+            # Authentication
+            s.login(message['From'], "YOUR PASSWORD")
             #send the mail
             s.sendmail(message["From"], message["To"], message.as_string())
 
