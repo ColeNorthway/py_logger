@@ -9,25 +9,20 @@ BLU-PRINT
 1) Make a keylogger class
 	> Has all of the necessary functionality to log keys
 	  > Will capture keystrokes
+	  DO THIS VVVV
 	  > Will also determine the program that the keystrokes are happening at.
-	> Will write the logs to a global list
-	> Will also check a global counter to see when the writer class finished reading from its list.
-	  > Will clear that list if that var is set.
+	> Will write the logs to a queue
+	> For testing it will exit when a global var is set (ONLY PURPOSE OF THE GLOBAL VAR IS TO SIGNAL TO THE LOGGER TO GTFO)
+	> Since its the only main thread (non-daemon) the daemons will exit also.
+	  > We can set up the daemons to stop after the timer even completely for clean exit.
 2) Make a writer class
-	> This will write to a file.
 	> Will continue to get queue information and write to a file.
-	> Will pause when the timer hits top of hour to let the timer clear our the file
+	> Will call the file manipulator's write queue and lock the file access down
+	> When it recvs a signal it will exit or release the lock for the timer to then be able to overwrite and email the log file.
 3) The timer class
-	> This will set a global varaible to let the writer to know to stop writing
-	  > Then reset the variable when the file is overwritten
-	> This will hit the top of the hour then send a copy of the file to an email
-
-
-Imports We Need
-time
-threads
-
-
-Potential Loss
-	> The keylogger class will clear the list as soon as a key is pressed.
-	  > Figure out mitigation later.
+	> The top of the hour it will send the file then overwrite it.
+	> The full functionality is implemented in file manipulator class.
+4) File Manipulator Class
+	> Has the loop to write the queue to the file
+	> Has to loop to overwrite the file
+	> Has locks on both methods.
