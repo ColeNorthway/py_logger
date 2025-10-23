@@ -130,7 +130,7 @@ class timer:
     #this will call the method to overwrite and send
     #the queue dumper should see the lock exited as its waiting to reenter
     @staticmethod
-    @schedule.repeat(schedule.every().hour.at(":27"))
+    @schedule.repeat(schedule.every().hour.at(":00"))
     def send_overwrite():
         global send_overwrite
         send_overwrite = 1
@@ -165,17 +165,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-'''
-Current Workflow
-    > Ok now we just need to take out the debugging information
-    > Set hourly (DONE)
-    > Set the exit to none.
-      > So remove the exit_ global
-      > Fix the reentry loop
-
-
-REMEMBER LATER TO ACTUALLY RESET THOSE VARIABLES
-  * EASY MISTAKE TO FORGET
-  * 
-'''
