@@ -12,9 +12,6 @@ BLU-PRINT
 	  DO THIS VVVV
 	  > Will also determine the program that the keystrokes are happening at.
 	> Will write the logs to a queue
-	> For testing it will exit when a global var is set (ONLY PURPOSE OF THE GLOBAL VAR IS TO SIGNAL TO THE LOGGER TO GTFO)
-	> Since its the only main thread (non-daemon) the daemons will exit also.
-	  > We can set up the daemons to stop after the timer even completely for clean exit.
 2) Make a writer class
 	> Will continue to get queue information and write to a file.
 	> Will call the file manipulator's write queue and lock the file access down
@@ -26,5 +23,3 @@ BLU-PRINT
 	> Has the loop to write the queue to the file
 	> Has to loop to overwrite the file
 	> Has locks on both methods.
-
-
